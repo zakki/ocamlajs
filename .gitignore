@@ -1,0 +1,21 @@
+*~
+
+# /
+/*.o
+/*.a
+/*.so
+/*.obj
+/*.lib
+/*.dll
+/*.cm[ioxat]
+/*.cmx[as]
+/*.cmti
+/*.annot
+/*.result
+/*.byte
+/*.native
+/*.exe
+/*.exe.manifest
+/.depend
+/.depend.nt
+/.DS_Store
